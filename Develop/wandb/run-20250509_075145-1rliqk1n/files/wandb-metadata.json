@@ -1,0 +1,42 @@
+{
+  "os":  "Linux-6.8.0-59-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-05-09T07:51:45.688302Z",
+  "program":  "/local/scratch/code/TROPHY/colon_data_analysis/CRIME/Develop/11_Using_Crime.ipynb",
+  "codePath":  "CRIME/Develop/11_Using_Crime.ipynb",
+  "git":  {
+    "remote":  "git@github.com:tjiagoM/colon_data_analysis.git",
+    "commit":  "f1ac6ae5965b2874652462b40a5c5b62cb894d19"
+  },
+  "email":  "tjh200@cam.ac.uk",
+  "root":  "/local/scratch/code/TROPHY/colon_data_analysis/CRIME/Develop",
+  "host":  "csvm5",
+  "executable":  "/home/tjh200/miniconda3/envs/ml_env/bin/python",
+  "codePathLocal":  "11_Using_Crime.ipynb",
+  "cpu_count":  16,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA L40S",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "105089261568",
+      "used":  "93476720640"
+    }
+  },
+  "memory":  {
+    "total":  "67415801856"
+  },
+  "cpu":  {
+    "count":  16,
+    "countLogical":  16
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA L40S",
+      "memoryTotal":  "48305799168",
+      "cudaCores":  18176,
+      "architecture":  "Ada"
+    }
+  ],
+  "cudaVersion":  "12.9"
+}

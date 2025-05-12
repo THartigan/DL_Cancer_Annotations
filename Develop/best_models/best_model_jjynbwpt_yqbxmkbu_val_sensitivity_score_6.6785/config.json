@@ -1,0 +1,44 @@
+{
+  "model_config": {
+    "dataset": "data.npy",
+    "leak_rate": 1.8334556544614351e-06,
+    "batch_size": 3584,
+    "early_stop": "false",
+    "num_epochs": 100,
+    "model_class": "SCNN_TPL",
+    "prop_to_use": 0.25,
+    "dropout_rate": 0.01881860511173811,
+    "optimise_for": "sensitivity_score",
+    "weight_decay": 0.2373786818773869,
+    "learning_rate": 0.00010958158890691044,
+    "dataset_config": 0,
+    "input_channels": 1,
+    "entropy_weights": [
+      1,
+      0.4496895968914032,
+      1,
+      1
+    ],
+    "scheduler_gamma": 0.8305012193041509,
+    "val_fold_number": 0,
+    "entropy_weight_0": 1,
+    "entropy_weight_1": 0.4496895982324962,
+    "entropy_weight_2": 1,
+    "entropy_weight_3": 1,
+    "apriori_relevance": "default",
+    "scheduler_step_size": 14,
+    "training_fold_number": 0,
+    "validation_test_folds": 2,
+    "number_of_training_folds": 2
+  },
+  "run_metadata": {
+    "run_id": "yqbxmkbu",
+    "run_name": "blooming-sweep-110",
+    "mode": "best_ever",
+    "best_epoch": 13,
+    "val_sensitivity_score": 6.678497014092961,
+    "sweep_id": "jjynbwpt",
+    "project": "TROPHY",
+    "entity": "tjh200-university-of-cambridge"
+  }
+}

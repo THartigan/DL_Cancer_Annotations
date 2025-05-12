@@ -1,0 +1,8 @@
+{"time":"2025-03-24T00:07:39.401852243Z","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/local/scratch/code/TROPHY/colon_data_analysis/CRIME/Develop/wandb/run-20250324_000739-g5y4luo0/logs/debug-core.log"}
+{"time":"2025-03-24T00:07:39.644458682Z","level":"INFO","msg":"created new stream","id":"g5y4luo0"}
+{"time":"2025-03-24T00:07:39.644497315Z","level":"INFO","msg":"stream: started","id":"g5y4luo0"}
+{"time":"2025-03-24T00:07:39.644620885Z","level":"INFO","msg":"writer: Do: started","stream_id":"g5y4luo0"}
+{"time":"2025-03-24T00:07:39.644713604Z","level":"INFO","msg":"sender: started","stream_id":"g5y4luo0"}
+{"time":"2025-03-24T00:07:39.644686711Z","level":"INFO","msg":"handler: started","stream_id":"g5y4luo0"}
+{"time":"2025-03-24T00:07:39.895548635Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-24T00:07:40.103366373Z","level":"INFO","msg":"Pausing system monitor"}

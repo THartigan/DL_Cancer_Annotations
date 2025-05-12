@@ -1,0 +1,44 @@
+{
+  "model_config": {
+    "dataset": "data.npy",
+    "leak_rate": 0.22231037178299892,
+    "batch_size": 3584,
+    "early_stop": "true",
+    "num_epochs": 100,
+    "model_class": "SCNN_TPL3",
+    "prop_to_use": 1,
+    "dropout_rate": 0.203844264627311,
+    "optimise_for": "overall_accuracy",
+    "weight_decay": 0.21659259414613224,
+    "learning_rate": 0.0012468344282488923,
+    "dataset_config": 0,
+    "input_channels": 1,
+    "entropy_weights": [
+      1,
+      0.2770979106426239,
+      1,
+      1
+    ],
+    "scheduler_gamma": 0.5,
+    "val_fold_number": 0,
+    "entropy_weight_0": 1,
+    "entropy_weight_1": 0.2770979203626986,
+    "entropy_weight_2": 1,
+    "entropy_weight_3": 1,
+    "apriori_relevance": "default",
+    "scheduler_step_size": 9,
+    "training_fold_number": 0,
+    "validation_test_folds": 2,
+    "number_of_training_folds": 2
+  },
+  "run_metadata": {
+    "run_id": "rjshkwvr",
+    "run_name": "frosty-sweep-377",
+    "mode": "best_ever",
+    "best_epoch": -1,
+    "val_overall_accuracy": 0.6185256900727958,
+    "sweep_id": "vlu8blib",
+    "project": "TROPHY",
+    "entity": "tjh200-university-of-cambridge"
+  }
+}

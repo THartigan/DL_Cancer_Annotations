@@ -1,0 +1,35 @@
+2025-05-09 07:51:45,627 INFO    MainThread:212617 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7.dev1
+2025-05-09 07:51:45,627 INFO    MainThread:212617 [wandb_setup.py:_flush():67] Configure stats pid to 212617
+2025-05-09 07:51:45,627 INFO    MainThread:212617 [wandb_setup.py:_flush():67] Loading settings from /home/tjh200/.config/wandb/settings
+2025-05-09 07:51:45,627 INFO    MainThread:212617 [wandb_setup.py:_flush():67] Loading settings from /local/scratch/code/TROPHY/colon_data_analysis/CRIME/Develop/wandb/settings
+2025-05-09 07:51:45,627 INFO    MainThread:212617 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-05-09 07:51:45,627 INFO    MainThread:212617 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /local/scratch/code/TROPHY/colon_data_analysis/CRIME/Develop/wandb/run-20250509_075145-1rliqk1n/logs/debug.log
+2025-05-09 07:51:45,628 INFO    MainThread:212617 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /local/scratch/code/TROPHY/colon_data_analysis/CRIME/Develop/wandb/run-20250509_075145-1rliqk1n/logs/debug-internal.log
+2025-05-09 07:51:45,628 INFO    MainThread:212617 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x77c1a144f390>
+2025-05-09 07:51:45,628 INFO    MainThread:212617 [wandb_init.py:init():761] calling init triggers
+2025-05-09 07:51:45,628 INFO    MainThread:212617 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'dataset_config': 1, 'eval_on': 'test', 'num_to_use_per_class': 1000, 'threshold': 0.55, 'assume_model_classifications': True, 'model_class': 'SCNN_TPL3', 'num_training_folds': 2, 'num_val_test_folds': 2, 'prop_to_use': 1, 'sweep_id': 'wh844aab', 'vae_config': {'input_dim': 2403, 'hidden_dim': 256, 'latent_dim': 16, 'output_dim': 2403, 'learning_rate': 0.001, 'num_epochs': 128, 'beta': 5}, '_wandb': {}}
+2025-05-09 07:51:45,629 INFO    MainThread:212617 [wandb_init.py:init():784] starting backend
+2025-05-09 07:51:45,629 INFO    MainThread:212617 [wandb_init.py:init():788] sending inform_init request
+2025-05-09 07:51:45,686 INFO    MainThread:212617 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-05-09 07:51:45,687 INFO    MainThread:212617 [wandb_init.py:init():803] backend started and connected
+2025-05-09 07:51:45,695 INFO    MainThread:212617 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-05-09 07:51:45,722 INFO    MainThread:212617 [wandb_init.py:init():896] updated telemetry
+2025-05-09 07:51:45,729 INFO    MainThread:212617 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-05-09 07:51:46,271 INFO    MainThread:212617 [wandb_init.py:init():995] starting run threads in backend
+2025-05-09 07:51:46,497 INFO    MainThread:212617 [wandb_run.py:_console_start():2377] atexit reg
+2025-05-09 07:51:46,497 INFO    MainThread:212617 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-09 07:51:46,498 INFO    MainThread:212617 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-09 07:51:46,498 INFO    MainThread:212617 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-05-09 07:51:46,505 INFO    MainThread:212617 [wandb_init.py:init():1037] run started, returning control to user process
+2025-05-09 07:51:46,510 INFO    MainThread:212617 [wandb_run.py:_finish():2112] finishing run tjh200-university-of-cambridge/TROPHY/1rliqk1n
+2025-05-09 07:51:46,510 INFO    MainThread:212617 [jupyter.py:save_history():458] not saving jupyter history
+2025-05-09 07:51:46,510 INFO    MainThread:212617 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-05-09 07:51:46,510 INFO    MainThread:212617 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-05-09 07:51:46,510 INFO    MainThread:212617 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-05-09 07:51:46,511 INFO    MainThread:212617 [wandb_run.py:_restore():2324] restore
+2025-05-09 07:51:46,511 INFO    MainThread:212617 [wandb_run.py:_restore():2330] restore done
+2025-05-09 07:51:50,776 INFO    MsgRouterThr:212617 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-05-09 07:51:50,777 INFO    MainThread:212617 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-05-09 07:51:50,780 INFO    MainThread:212617 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-05-09 07:51:50,784 INFO    MainThread:212617 [wandb_run.py:_footer_sync_info():3919] logging synced files

@@ -1,0 +1,16 @@
+{"time":"2025-04-01T11:17:13.92081134Z","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/local/scratch/code/TROPHY/colon_data_analysis/CRIME/Develop/wandb/run-20250401_111713-wez70iau/logs/debug-core.log"}
+{"time":"2025-04-01T11:17:14.025312232Z","level":"INFO","msg":"created new stream","id":"wez70iau"}
+{"time":"2025-04-01T11:17:14.025419903Z","level":"INFO","msg":"stream: started","id":"wez70iau"}
+{"time":"2025-04-01T11:17:14.025589383Z","level":"INFO","msg":"sender: started","stream_id":"wez70iau"}
+{"time":"2025-04-01T11:17:14.025598801Z","level":"INFO","msg":"writer: Do: started","stream_id":"wez70iau"}
+{"time":"2025-04-01T11:17:14.025711539Z","level":"INFO","msg":"handler: started","stream_id":"wez70iau"}
+{"time":"2025-04-01T11:17:14.293575109Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-01T11:17:49.239916514Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-01T11:17:49.241246763Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-01T11:17:50.247727092Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact best-model","runtime_seconds":1.352451547,"subtasks":[{"desc":"1.290737SCNN_TPL3.pth","runtime_seconds":0.330775758,"progress":"1.0MB/10.8MB"}]},{"desc":"uploading artifact final-model","runtime_seconds":1.016176382,"subtasks":[{"desc":"1.305594SCNN_TPL3.pth","runtime_seconds":0.169599358,"progress":"64.0KB/10.8MB"}]}],"total_operations":2}}
+{"time":"2025-04-01T11:17:52.604660347Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-01T11:17:53.802552562Z","level":"INFO","msg":"stream: closing","id":"wez70iau"}
+{"time":"2025-04-01T11:17:53.802608837Z","level":"INFO","msg":"handler: closed","stream_id":"wez70iau"}
+{"time":"2025-04-01T11:17:53.802630497Z","level":"INFO","msg":"writer: Close: closed","stream_id":"wez70iau"}
+{"time":"2025-04-01T11:17:53.802779512Z","level":"INFO","msg":"sender: closed","stream_id":"wez70iau"}
+{"time":"2025-04-01T11:17:53.802796139Z","level":"INFO","msg":"stream: closed","id":"wez70iau"}

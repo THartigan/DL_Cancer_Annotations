@@ -1,0 +1,88 @@
+Epoch 1/10 stats - learning rate: 5.00e-04
+Loss: train 1.3820919112276118, val 1.383418247996887, test 1.3847475656369608
+Accuracy: train [0.666 0.498 0.793 0.569], val [0.799 0.501 0.841 0.141], test [0.809 0.503 0.834 0.146]
+Sensitivity: train [0.232 0.298 0.064 0.404], val [0. 0. 0. 1.], test [0. 0. 0. 1.]
+Specificity: train [0.769 0.697 0.934 0.597], val [1. 1. 1. 0.], test [1. 1. 1. 0.]
+FPR: train [0.231 0.303 0.066 0.403], val [0. 0. 0. 1.], test [0. 0. 0. 1.]
+!!!New max val loss score 1.383418247996887, corresponding test sensitivity score 1.3847475656369608
+Params:  943218
+Epoch 2/10 stats - learning rate: 5.00e-04
+Loss: train 1.3772679922422195, val 1.361338009803442, test 1.3656859176405105
+Accuracy: train [0.686 0.501 0.804 0.607], val [0.799 0.499 0.841 0.859], test [0.809 0.497 0.834 0.854]
+Sensitivity: train [0.195 0.41  0.048 0.336], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+Specificity: train [0.803 0.591 0.951 0.653], val [1. 0. 1. 1.], test [1. 0. 1. 1.]
+FPR: train [0.197 0.409 0.049 0.347], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+!!!New max val loss score 1.361338009803442, corresponding test sensitivity score 1.3656859176405105
+Removed previous best model
+Params:  943218
+Epoch 3/10 stats - learning rate: 5.00e-04
+Loss: train 1.3720127623471885, val 1.3429953888695798, test 1.3438144523831663
+Accuracy: train [0.72  0.501 0.815 0.656], val [0.799 0.499 0.841 0.859], test [0.809 0.497 0.834 0.854]
+Sensitivity: train [0.156 0.543 0.034 0.274], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+Specificity: train [0.854 0.46  0.967 0.722], val [1. 0. 1. 1.], test [1. 0. 1. 1.]
+FPR: train [0.146 0.54  0.033 0.278], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+!!!New max val loss score 1.3429953888695798, corresponding test sensitivity score 1.3438144523831663
+Removed previous best model
+Params:  943218
+Epoch 4/10 stats - learning rate: 5.00e-04
+Loss: train 1.3666607580164427, val 1.3293009030858705, test 1.328745228533039
+Accuracy: train [0.742 0.499 0.824 0.699], val [0.799 0.499 0.841 0.859], test [0.809 0.497 0.834 0.854]
+Sensitivity: train [0.098 0.656 0.021 0.222], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+Specificity: train [0.895 0.342 0.98  0.781], val [1. 0. 1. 1.], test [1. 0. 1. 1.]
+FPR: train [0.105 0.658 0.02  0.219], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+!!!New max val loss score 1.3293009030858705, corresponding test sensitivity score 1.328745228533039
+Removed previous best model
+Params:  943218
+Epoch 5/10 stats - learning rate: 5.00e-04
+Loss: train 1.363920085631237, val 1.3188796521293542, test 1.3201567141139956
+Accuracy: train [0.767 0.495 0.829 0.732], val [0.799 0.499 0.841 0.859], test [0.809 0.497 0.834 0.854]
+Sensitivity: train [0.069 0.743 0.011 0.177], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+Specificity: train [0.933 0.249 0.988 0.827], val [1. 0. 1. 1.], test [1. 0. 1. 1.]
+FPR: train [0.067 0.751 0.012 0.173], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+!!!New max val loss score 1.3188796521293542, corresponding test sensitivity score 1.3201567141139956
+Removed previous best model
+Params:  943218
+Epoch 6/10 stats - learning rate: 5.00e-04
+Loss: train 1.3592668224509612, val 1.308831241293984, test 1.3150991346527237
+Accuracy: train [0.783 0.498 0.834 0.762], val [0.799 0.499 0.841 0.859], test [0.809 0.497 0.834 0.854]
+Sensitivity: train [0.037 0.828 0.004 0.125], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+Specificity: train [0.96  0.171 0.995 0.872], val [1. 0. 1. 1.], test [1. 0. 1. 1.]
+FPR: train [0.04  0.829 0.005 0.128], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+!!!New max val loss score 1.308831241293984, corresponding test sensitivity score 1.3150991346527237
+Removed previous best model
+Params:  943218
+Epoch 7/10 stats - learning rate: 5.00e-04
+Loss: train 1.3547698231780285, val 1.2976364809136702, test 1.3092319415937677
+Accuracy: train [0.796 0.499 0.836 0.785], val [0.799 0.499 0.841 0.859], test [0.809 0.497 0.834 0.854]
+Sensitivity: train [0.022 0.881 0.002 0.099], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+Specificity: train [0.98  0.119 0.998 0.903], val [1. 0. 1. 1.], test [1. 0. 1. 1.]
+FPR: train [0.02  0.881 0.002 0.097], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+!!!New max val loss score 1.2976364809136702, corresponding test sensitivity score 1.3092319415937677
+Removed previous best model
+Params:  943218
+Epoch 8/10 stats - learning rate: 5.00e-04
+Loss: train 1.3518526304874372, val 1.2946693927251471, test 1.30445756155518
+Accuracy: train [0.803 0.499 0.837 0.805], val [0.799 0.499 0.841 0.859], test [0.809 0.497 0.834 0.854]
+Sensitivity: train [0.008 0.922 0.    0.072], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+Specificity: train [0.991 0.077 1.    0.932], val [1. 0. 1. 1.], test [1. 0. 1. 1.]
+FPR: train [0.009 0.923 0.    0.068], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+!!!New max val loss score 1.2946693927251471, corresponding test sensitivity score 1.30445756155518
+Removed previous best model
+Params:  943218
+Epoch 9/10 stats - learning rate: 5.00e-04
+Loss: train 1.3471584131138732, val 1.2907366655141124, test 1.305369294808156
+Accuracy: train [0.807 0.498 0.837 0.819], val [0.799 0.499 0.841 0.859], test [0.809 0.497 0.834 0.854]
+Sensitivity: train [0.003 0.95  0.    0.041], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+Specificity: train [0.998 0.047 1.    0.953], val [1. 0. 1. 1.], test [1. 0. 1. 1.]
+FPR: train [0.002 0.953 0.    0.047], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+!!!New max val loss score 1.2907366655141124, corresponding test sensitivity score 1.305369294808156
+Removed previous best model
+Params:  943218
+Epoch 10/10 stats - learning rate: 2.50e-04
+Loss: train 1.3445476716971296, val 1.3055938872941089, test 1.3147274385460885
+Accuracy: train [0.808 0.499 0.837 0.835], val [0.799 0.499 0.841 0.859], test [0.809 0.497 0.834 0.854]
+Sensitivity: train [0.    0.974 0.    0.028], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+Specificity: train [0.999 0.026 1.    0.975], val [1. 0. 1. 1.], test [1. 0. 1. 1.]
+FPR: train [0.001 0.974 0.    0.025], val [0. 1. 0. 0.], test [0. 1. 0. 0.]
+Params:  943218
+Training complete, best val sensitivity: 1.2907366655141124 with corresponding test sensitivity: 1.305369294808156

@@ -1,0 +1,16 @@
+{"time":"2025-04-01T11:24:27.467530424Z","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/local/scratch/code/TROPHY/colon_data_analysis/CRIME/Develop/wandb/run-20250401_112427-4gnijt5x/logs/debug-core.log"}
+{"time":"2025-04-01T11:24:27.571466491Z","level":"INFO","msg":"created new stream","id":"4gnijt5x"}
+{"time":"2025-04-01T11:24:27.57153655Z","level":"INFO","msg":"stream: started","id":"4gnijt5x"}
+{"time":"2025-04-01T11:24:27.571642765Z","level":"INFO","msg":"writer: Do: started","stream_id":"4gnijt5x"}
+{"time":"2025-04-01T11:24:27.57171788Z","level":"INFO","msg":"handler: started","stream_id":"4gnijt5x"}
+{"time":"2025-04-01T11:24:27.571836007Z","level":"INFO","msg":"sender: started","stream_id":"4gnijt5x"}
+{"time":"2025-04-01T11:24:27.849571545Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-01T11:24:45.669277181Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-01T11:24:45.670844638Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-01T11:24:46.676227177Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact best-model","runtime_seconds":1.279184103,"subtasks":[{"desc":"1.322313SCNN_TPL3.pth","runtime_seconds":0.480866548,"progress":"856.4KB/856.4KB"}]},{"desc":"uploading artifact final-model","runtime_seconds":1.0144491389999999,"subtasks":[{"desc":"1.322313SCNN_TPL3.pth","runtime_seconds":0.348165111,"progress":"656.0KB/856.4KB"}]}],"total_operations":2}}
+{"time":"2025-04-01T11:24:48.085528648Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-01T11:24:49.380270075Z","level":"INFO","msg":"stream: closing","id":"4gnijt5x"}
+{"time":"2025-04-01T11:24:49.380305445Z","level":"INFO","msg":"handler: closed","stream_id":"4gnijt5x"}
+{"time":"2025-04-01T11:24:49.380328155Z","level":"INFO","msg":"writer: Close: closed","stream_id":"4gnijt5x"}
+{"time":"2025-04-01T11:24:49.380588406Z","level":"INFO","msg":"sender: closed","stream_id":"4gnijt5x"}
+{"time":"2025-04-01T11:24:49.380684772Z","level":"INFO","msg":"stream: closed","id":"4gnijt5x"}

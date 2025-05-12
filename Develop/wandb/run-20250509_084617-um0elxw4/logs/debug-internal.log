@@ -1,0 +1,16 @@
+{"time":"2025-05-09T08:46:17.736163681Z","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/local/scratch/code/TROPHY/colon_data_analysis/CRIME/Develop/wandb/run-20250509_084617-um0elxw4/logs/debug-core.log"}
+{"time":"2025-05-09T08:46:17.839966711Z","level":"INFO","msg":"created new stream","id":"um0elxw4"}
+{"time":"2025-05-09T08:46:17.840039926Z","level":"INFO","msg":"stream: started","id":"um0elxw4"}
+{"time":"2025-05-09T08:46:17.840136639Z","level":"INFO","msg":"writer: Do: started","stream_id":"um0elxw4"}
+{"time":"2025-05-09T08:46:17.840340471Z","level":"INFO","msg":"sender: started","stream_id":"um0elxw4"}
+{"time":"2025-05-09T08:46:17.840398022Z","level":"INFO","msg":"handler: started","stream_id":"um0elxw4"}
+{"time":"2025-05-09T08:46:18.117143895Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-09T08:46:18.299747008Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-09T08:46:18.301138109Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-09T08:46:19.273776257Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading Develop/11_Using_Crime.ipynb","runtime_seconds":0.399219191,"progress":"1.5MB/8.5MB"}],"total_operations":1}}
+{"time":"2025-05-09T08:46:21.439786362Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-09T08:46:22.638507377Z","level":"INFO","msg":"stream: closing","id":"um0elxw4"}
+{"time":"2025-05-09T08:46:22.63857451Z","level":"INFO","msg":"handler: closed","stream_id":"um0elxw4"}
+{"time":"2025-05-09T08:46:22.638609936Z","level":"INFO","msg":"writer: Close: closed","stream_id":"um0elxw4"}
+{"time":"2025-05-09T08:46:22.638717585Z","level":"INFO","msg":"sender: closed","stream_id":"um0elxw4"}
+{"time":"2025-05-09T08:46:22.638741436Z","level":"INFO","msg":"stream: closed","id":"um0elxw4"}

@@ -1,0 +1,44 @@
+{
+  "model_config": {
+    "dataset": "data.npy",
+    "leak_rate": 0.5590131936719065,
+    "batch_size": 3584,
+    "early_stop": "true",
+    "num_epochs": 100,
+    "model_class": "SCNN_TPL3",
+    "prop_to_use": 1,
+    "dropout_rate": 0.010495447334447853,
+    "optimise_for": "overall_accuracy",
+    "weight_decay": 0.08691470874024058,
+    "learning_rate": 0.0003160444896706975,
+    "dataset_config": 2,
+    "input_channels": 1,
+    "entropy_weights": [
+      1,
+      0.2916785180568695,
+      1,
+      1
+    ],
+    "scheduler_gamma": 0.5,
+    "val_fold_number": 0,
+    "entropy_weight_0": 1,
+    "entropy_weight_1": 0.2916785147284287,
+    "entropy_weight_2": 1,
+    "entropy_weight_3": 1,
+    "apriori_relevance": "default",
+    "scheduler_step_size": 8,
+    "training_fold_number": 1,
+    "validation_test_folds": 2,
+    "number_of_training_folds": 2
+  },
+  "run_metadata": {
+    "run_id": "8l438ktm",
+    "run_name": "dainty-sweep-54",
+    "mode": "best_ever",
+    "best_epoch": -1,
+    "val_overall_accuracy": 0.6760252901929013,
+    "sweep_id": "i0y5hggy",
+    "project": "TROPHY",
+    "entity": "tjh200-university-of-cambridge"
+  }
+}

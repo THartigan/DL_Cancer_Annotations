@@ -1,0 +1,16 @@
+{"time":"2025-03-24T00:08:32.557425841Z","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/local/scratch/code/TROPHY/colon_data_analysis/CRIME/Develop/wandb/run-20250324_000832-k0ytovqj/logs/debug-core.log"}
+{"time":"2025-03-24T00:08:32.662062954Z","level":"INFO","msg":"created new stream","id":"k0ytovqj"}
+{"time":"2025-03-24T00:08:32.662158285Z","level":"INFO","msg":"stream: started","id":"k0ytovqj"}
+{"time":"2025-03-24T00:08:32.662236668Z","level":"INFO","msg":"writer: Do: started","stream_id":"k0ytovqj"}
+{"time":"2025-03-24T00:08:32.662285424Z","level":"INFO","msg":"sender: started","stream_id":"k0ytovqj"}
+{"time":"2025-03-24T00:08:32.66234952Z","level":"INFO","msg":"handler: started","stream_id":"k0ytovqj"}
+{"time":"2025-03-24T00:08:32.901954345Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-24T00:09:09.025795784Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-24T00:09:09.02671342Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-24T00:09:10.032062227Z","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact best-model","runtime_seconds":1.2825644440000001,"subtasks":[{"desc":"1.325315SCNN_TPL2.pth","runtime_seconds":0.665455617,"progress":"1.1MB/9.3MB"}]},{"desc":"uploading artifact final-model","runtime_seconds":1.007139115,"subtasks":[{"desc":"1.338257SCNN_TPL2.pth","runtime_seconds":0.360738135,"progress":"48.0KB/9.3MB"}]},{"desc":"uploading config.yaml","runtime_seconds":0.520874859,"progress":"3.9KB/3.9KB"}],"total_operations":3}}
+{"time":"2025-03-24T00:09:12.406548752Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-24T00:09:13.605754068Z","level":"INFO","msg":"stream: closing","id":"k0ytovqj"}
+{"time":"2025-03-24T00:09:13.60586419Z","level":"INFO","msg":"handler: closed","stream_id":"k0ytovqj"}
+{"time":"2025-03-24T00:09:13.605975695Z","level":"INFO","msg":"sender: closed","stream_id":"k0ytovqj"}
+{"time":"2025-03-24T00:09:13.605884351Z","level":"INFO","msg":"writer: Close: closed","stream_id":"k0ytovqj"}
+{"time":"2025-03-24T00:09:13.606204233Z","level":"INFO","msg":"stream: closed","id":"k0ytovqj"}
